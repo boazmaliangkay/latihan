@@ -9,15 +9,9 @@
 .nav-link{
     text-transform: uppercase;
     margin-right: 30px;
-    font color: white;
+    color: aliceblue;
     }
 
-.nav-link:hover:after{
-    content: '';
-    display: block;
-    border bottom: 3px solid;
-
-}
 
 .jumbotron{
     background-image: url(IMG/gambarcontoh3.jpg);
@@ -31,6 +25,7 @@
     margin-top: 150px;
     text-align: center;
     margin-top: 150px;
+    color: aliceblue;
 }
 
 .jumbotron2{
@@ -42,7 +37,3 @@
     margin-top: 100px;
 }
 
-/* .materi1 .container {
-    width: 90%;
-    padding: 17px;
-} */
